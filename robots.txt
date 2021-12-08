@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robengrobban.github.io/Algoritmer-Datastrukturer-Sammanfattning/sitemap.txt
